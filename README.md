@@ -16,5 +16,6 @@ The loss is the error between the actual (expected) output and the predicted (ca
  
 5. What is the "chain rule" in gradient flow?
 The chain rule is used to compute derivatives of composite functions. Since our cost function is always a composite function hence we use chain rule to compute the gradient. The name ‘chain’ comes from the fact that the derivatives (intermediate) are linked (chained) together. Please refer below table to visualize the chain rule-
+
 ![Image](https://s3.gifyu.com/images/pasted-image-0.png)
 
